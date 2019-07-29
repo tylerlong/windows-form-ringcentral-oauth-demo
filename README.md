@@ -3,7 +3,7 @@
 
 ## Video Demo
 
-For how this demo works, please watch [this vide](./video.mp4).
+For how this demo works, please watch [this vide0](./video.mp4).
 
 ## Setup
 
