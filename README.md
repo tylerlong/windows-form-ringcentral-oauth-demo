@@ -1,5 +1,10 @@
 # Windows Form RingCentral OAuth Demo
 
+
+## Video Demo
+
+For how this demo works, please watch [this vide](./video.mp4).
+
 ## Setup
 
 ### Configuration
