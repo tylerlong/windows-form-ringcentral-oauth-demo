@@ -1,5 +1,9 @@
 # Windows Form RingCentral OAuth Demo
 
+## Disclaimer
+
+This project is provided as is. It is by no means the best practice.
+
 
 ## Video Demo
 
