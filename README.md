@@ -16,4 +16,4 @@ Why `https://does-not-exist.com`? The redirect uri doesn't matter, it could be w
 
 ### Edit code to specify `clientId` & `clientSecret`
 
-Please edit [this line](./WindowsFormsApp1/OAuthForm.cs#17) to specify `clientId` & `clientSecret`
+Please edit [this line](./WindowsFormsApp1/OAuthForm.cs#L17) to specify `clientId` & `clientSecret`.
