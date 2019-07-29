@@ -17,3 +17,8 @@ Why `https://does-not-exist.com`? The redirect uri doesn't matter, it could be w
 ### Edit code to specify `clientId` & `clientSecret`
 
 Please edit [this line](./WindowsFormsApp1/OAuthForm.cs#L17) to specify `clientId` & `clientSecret`.
+
+
+## About Login method
+
+In the demo video, I was using "Single Sign On". It is not required to login via it. You can login RingCentral with whatever way that works best for you.
